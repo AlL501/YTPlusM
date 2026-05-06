@@ -219,7 +219,7 @@ Finally! YTLowContrastMode added, supporting also newest YT IPAs
 <details>
  <summary><strong>NEW!</strong> YTLowContrastMode (only on YTPlusM versions)</summary>
  <p>YTLowContrastMode is a tweak developed by <a href="https://github.com/arichornlover">arichornlover</a>, a Tweak to make YT and YTMusic apps' Interface Low Contrast as possible and Easy on the eyes.</p>
- <p><strong>YTLowContrastMode preferences are not available</strong>; the tweak <strong>is already activated</strong>strong> when you choose to inject it.</p>
+ <p><strong>YTLowContrastMode preferences are not available</strong>; the tweak <strong>is already activated</strong> when you choose to inject it.</p>
  <p>Source code and additional information are available <a href="https://github.com/arichornlover/YTLowContrastMode">in arichornlover's repository.</p>
  <p><em>YTLowContrastMode is available only from <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2.1_21.18.4_updated">YTPlusM 5.2.1 and 21.18.4 updated</a> pre-built release, but you can build your version of YTPlusM now! View <a href=#how-to-build-a-youtube-plus-app-using-github-actions>How to build a YouTube Plus app using GitHub Actions</a> and <a href=#what-means-ytplusm-and-ytplusm-diy>What Means YTPlusM and YTPlusM DIY</a></em></p>
 </details>
